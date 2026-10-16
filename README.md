@@ -1,4 +1,5 @@
-So now it's a proper README.md (it wasn't before
+я не успела доделать дз т.к. заболела
+что успела сделать то и есть
 
 ```
        .
